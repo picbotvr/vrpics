@@ -1,1 +1,12 @@
-{"playlist_data":[{"title":"Movies","id":0,"type":"Movie"},{"title":"Movies 3D","id":1,"type":"Movie3D"},{"title":"Series","id":2,"type":"Series"},{"title":"Anime Series Sub","id":3,"type":"AnimeSeriesSub"},{"title":"Anime Series Dub","id":4,"type":"AnimeSeriesDub"},{"title":"Anime Movies Sub","id":5,"type":"AnimeMovieSub"},{"title":"Anime Movies Dub","id":6,"type":"AnimeMovieDub"},{"title":"Audio Books","id":7,"type":"AudioBook"},{"title":"Random\n<size=50%>(Movie, Series, Anime)</size>","id":8,"type":"Random"},{"title":"New adds\n<size=50%>(Movie, Episodes)</size>","id":9,"type":"NewAdds"}]}
+{"playlist_data":[
+    {"title":"Movies","id":0,"type":"Movie"},
+    {"title":"Movies 3D","id":1,"type":"Movie3D"},
+    {"title":"Series","id":2,"type":"Series"},
+    {"title":"Anime Series Sub","id":3,"type":"AnimeSeriesSub"},
+    {"title":"Anime Series Dub","id":4,"type":"AnimeSeriesDub"},
+    {"title":"Anime Movies Sub","id":5,"type":"AnimeMovieSub"},
+    {"title":"Anime Movies Dub","id":6,"type":"AnimeMovieDub"},
+    {"title":"Audio Books","id":7,"type":"AudioBook"},
+    {"title":"Random\n<size=50%>(Movie, Series, Anime)</size>","id":8,"type":"Random"},
+    {"title":"New adds\n<size=50%>(Movie, Episodes)</size>","id":9,"type":"NewAdds"}
+    ]}
