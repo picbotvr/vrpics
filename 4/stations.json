@@ -1,0 +1,25 @@
+{"stations":[{
+    "stationName":"Shu's Epic View Station",
+    "stationOffset":"0.327",
+    "stationTimeOfDay":"9",
+    "stationSunDir":"0,0,0,0",
+    "stationRain":"1",
+    "stationTerrainHeight":"111.7",
+    "stationMountainHeight":".3",
+    "stationXTerrainScale":"4.4",
+    "stationZTerrainScale":"4.4",
+    "stationMaxDistance":"1800",
+    "stationWaterLevel":"-70",
+    "stationSnowLevel":"11",
+    "stationSnowColor":"0.3,0.53,1.22,1",
+    "stationGrassLevel":"0",
+    "stationSkyColor":"0,0.12,0.37,1",
+    "stationBowlPos":"-0.03,-6,0.07,9",
+    "stationGroundColor":"0.04,0.08,0.09,1",
+    "stationHorizonColor":"0.05,0.07,0.1,1",
+    "stationSkyTexture":"0",
+    "stationGroundTexture":"0",
+    "stationBuildings":"lunarcolony"
+}
+]
+}
