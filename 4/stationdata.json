@@ -263,5 +263,61 @@
       "Stadium",
       "Path Station",
       "Pepper Station"
+    ],
+    "stationTerrainObject": [
+      "Terrain",
+      "Terrain",
+      "Terrain",
+      "Terrain",
+      "Terrain",
+      "Terrain",
+      "Terrain",
+      "Terrain",
+      "Terrain"
+    ],
+    "stationTerrainTexture": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "stationTerrainPos": [
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,-3,0,0",
+      "0,0,0,0"
+    ],
+    "stationTerrainRot": [
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0",
+      "0,0,0,0"
+    ],
+    "stationTerrainScale": [
+      "1,1,1,1",
+      "1,1,1,1",
+      "1,1,1,1",
+      "1,1,1,1",
+      "1,1,1,1",
+      "1,1,1,1",
+      "1,1,1,1",
+      "1,.25,1,1",
+      "1,1,1,1"
     ]
+
   }
