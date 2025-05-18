@@ -264,6 +264,17 @@
       "Path Station",
       "Pepper Station"
     ],
+    "stationWeather": [
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "3",
+      "0",
+      "2"
+    ],
     "stationTerrainObject": [
       "Terrain",
       "Terrain",
