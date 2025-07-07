@@ -1,0 +1,54 @@
+{
+    "count": 7,
+    "imageSize": 682,
+    "results": [
+        {
+            "title": "Strongman: The Rise of Five Dictators and the Fall of Democracy",
+            "rating": null,
+            "type": 1
+        },
+        {
+            "title": "The Last Stargazers: The Enduring Story of Astronomy’s Vanishing Explorers",
+            "rating": null,
+            "type": 1
+        },
+        {
+            "title": "13 Things Mentally Strong People Don’t Do",
+            "rating": null,
+            "type": 1
+        },
+        {
+            "title": "Tristan Strong Destroys the World (Tristan Strong #2)",
+            "rating": null,
+            "type": 1
+        },
+        {
+            "title": "Headstrong Like Us (Like Us #6)",
+            "rating": null,
+            "type": 1
+        },
+        {
+            "title": "Patron Saints of Nothing",
+            "rating": null,
+            "type": 1
+        },
+        {
+            "title": "RISING STRONG",
+            "rating": null,
+            "type": 1
+        }
+    ],
+    "sessionData": {
+        "sessionId": 1,
+        "searchQuery": "tron",
+        "sort": 0,
+        "searchBy": 0,
+        "contentType": 7,
+        "page": 0,
+        "genres": [],
+        "years": [],
+        "rating": 0
+    },
+    "user": null
+}
+

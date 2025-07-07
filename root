@@ -1,12 +1,1294 @@
-{"playlist_data":[
-    {"title":"Movies","id":0,"type":"Movie"},
-    {"title":"Movies 3D","id":1,"type":"Movie3D"},
-    {"title":"Series","id":2,"type":"Series"},
-    {"title":"Anime Series Sub","id":3,"type":"AnimeSeriesSub"},
-    {"title":"Anime Series Dub","id":4,"type":"AnimeSeriesDub"},
-    {"title":"Anime Movies Sub","id":5,"type":"AnimeMovieSub"},
-    {"title":"Anime Movies Dub","id":6,"type":"AnimeMovieDub"},
-    {"title":"Audio Books","id":7,"type":"AudioBook"},
-    {"title":"Random\n<size=50%>(Movie, Series, Anime)</size>","id":8,"type":"Random"},
-    {"title":"New adds\n<size=50%>(Movie, Episodes)</size>","id":9,"type":"NewAdds"}
-    ]}
+{
+    "availableContentTypes": [
+        "Movie",
+        "Movie 3D",
+        "Series",
+        "Anime Series Sub",
+        "Anime Series Dub",
+        "Anime Movies Sub",
+        "Anime Movies Dub",
+        "Audio Books"
+    ],
+    "results": [
+        {
+            "title": "KPop Demon Hunters",
+            "rating": 8.607,
+            "type": 0
+        },
+        {
+            "title": "How to Train Your Dragon",
+            "rating": 7.933,
+            "type": 0
+        },
+        {
+            "title": "28 Years Later",
+            "rating": 7.2,
+            "type": 0
+        },
+        {
+            "title": "M3GAN",
+            "rating": 7.05,
+            "type": 0
+        },
+        {
+            "title": "Sinners",
+            "rating": 7.566,
+            "type": 0
+        },
+        {
+            "title": "Lilo and Stitch",
+            "rating": 7.1,
+            "type": 0
+        },
+        {
+            "title": "Thunderbolts",
+            "rating": 7.46,
+            "type": 0
+        },
+        {
+            "title": "Bring Her Back",
+            "rating": 7.0,
+            "type": 0
+        },
+        {
+            "title": "Final Destination Bloodlines",
+            "rating": 7.197,
+            "type": 0
+        },
+        {
+            "title": "Bee Movie",
+            "rating": 6.031,
+            "type": 0
+        },
+        {
+            "title": "How to Train Your Dragon",
+            "rating": 7.848,
+            "type": 0
+        },
+        {
+            "title": "White Chicks",
+            "rating": 6.932,
+            "type": 0
+        },
+        {
+            "title": "A Minecraft Movie",
+            "rating": 6.472,
+            "type": 0
+        },
+        {
+            "title": "Ballerina",
+            "rating": 7.069,
+            "type": 0
+        },
+        {
+            "title": "Independence Day",
+            "rating": 6.895,
+            "type": 0
+        },
+        {
+            "title": "28 Days Later",
+            "rating": 7.234,
+            "type": 0
+        },
+        {
+            "title": "Coraline",
+            "rating": 7.894,
+            "type": 0
+        },
+        {
+            "title": "Avatar The Way of Water",
+            "rating": 7.611,
+            "type": 0
+        },
+        {
+            "title": "Five Nights at Freddys",
+            "rating": 7.439,
+            "type": 0
+        },
+        {
+            "title": "The Black Phone",
+            "rating": 7.571,
+            "type": 0
+        },
+        {
+            "title": "Sausage Party",
+            "rating": 5.745,
+            "type": 0
+        },
+        {
+            "title": "A Haunted House",
+            "rating": 5.947,
+            "type": 0
+        },
+        {
+            "title": "How to Train Your Dragon 2",
+            "rating": 7.676,
+            "type": 0
+        },
+        {
+            "title": "Monster Trucks",
+            "rating": 6.104,
+            "type": 0
+        },
+        {
+            "title": "Scary Movie",
+            "rating": 6.37,
+            "type": 0
+        },
+        {
+            "title": "Spree",
+            "rating": 6.413,
+            "type": 0
+        },
+        {
+            "title": "Ratatouille",
+            "rating": 7.828,
+            "type": 0
+        },
+        {
+            "title": "Hamilton",
+            "rating": 8.146,
+            "type": 0
+        },
+        {
+            "title": "Jurassic World",
+            "rating": 6.697,
+            "type": 0
+        },
+        {
+            "title": "Ouija",
+            "rating": 5.1,
+            "type": 0
+        },
+        {
+            "title": "Pacific Rim",
+            "rating": 6.911,
+            "type": 0
+        },
+        {
+            "title": "The Iron Giant",
+            "rating": 7.95,
+            "type": 0
+        },
+        {
+            "title": "Sonic the Hedgehog 3 [4K]",
+            "rating": 7.707,
+            "type": 0
+        },
+        {
+            "title": "WALL-E",
+            "rating": 8.101,
+            "type": 0
+        },
+        {
+            "title": "Grown Ups",
+            "rating": 6.396,
+            "type": 0
+        },
+        {
+            "title": "Until Dawn",
+            "rating": 6.6,
+            "type": 0
+        },
+        {
+            "title": "Friday",
+            "rating": 7.123,
+            "type": 0
+        },
+        {
+            "title": "Friday the 13th",
+            "rating": 6.419,
+            "type": 0
+        },
+        {
+            "title": "It Chapter One [4K]",
+            "rating": 7.237,
+            "type": 0
+        },
+        {
+            "title": "Morbius",
+            "rating": 5.957,
+            "type": 0
+        },
+        {
+            "title": "Dead Silence",
+            "rating": 6.45,
+            "type": 0
+        },
+        {
+            "title": "Lilo and Stitch",
+            "rating": 7.1,
+            "type": 0
+        },
+        {
+            "title": "Hancock",
+            "rating": 6.348,
+            "type": 0
+        },
+        {
+            "title": "Unfriended",
+            "rating": 5.53,
+            "type": 0
+        },
+        {
+            "title": "The Book of Life",
+            "rating": 7.541,
+            "type": 0
+        },
+        {
+            "title": "Jurassic Park III",
+            "rating": 6.163,
+            "type": 0
+        },
+        {
+            "title": "Final Destination",
+            "rating": 6.624,
+            "type": 0
+        },
+        {
+            "title": "Unfriended Dark Web",
+            "rating": 6.276,
+            "type": 0
+        },
+        {
+            "title": "Scream",
+            "rating": 7.414,
+            "type": 0
+        },
+        {
+            "title": "Jurassic World Dominion",
+            "rating": 6.7,
+            "type": 0
+        },
+        {
+            "title": "How to Train Your Dragon The Hidden World",
+            "rating": 7.752,
+            "type": 0
+        },
+        {
+            "title": "Spider-Man Into the Spider-Verse",
+            "rating": 8.399,
+            "type": 0
+        },
+        {
+            "title": "Little Man",
+            "rating": 5.91,
+            "type": 0
+        },
+        {
+            "title": "Smile 2",
+            "rating": 6.596,
+            "type": 0
+        },
+        {
+            "title": "Jurassic Park",
+            "rating": 7.958,
+            "type": 0
+        },
+        {
+            "title": "The Core",
+            "rating": 5.819,
+            "type": 0
+        },
+        {
+            "title": "As Above So Below",
+            "rating": 6.717,
+            "type": 0
+        },
+        {
+            "title": "The Croods",
+            "rating": 6.927,
+            "type": 0
+        },
+        {
+            "title": "The Greatest Showman",
+            "rating": 7.9,
+            "type": 0
+        },
+        {
+            "title": "Deadpool",
+            "rating": 7.623,
+            "type": 0
+        },
+        {
+            "title": "Fifty Shades of Grey",
+            "rating": 5.885,
+            "type": 0
+        },
+        {
+            "title": "Violent Night",
+            "rating": 7.3,
+            "type": 0
+        },
+        {
+            "title": "Porn Whats the Harm",
+            "rating": 6.8,
+            "type": 0
+        },
+        {
+            "title": "Open Season",
+            "rating": 6.166,
+            "type": 0
+        },
+        {
+            "title": "Dog Man",
+            "rating": 7.766,
+            "type": 0
+        },
+        {
+            "title": "Ghost Rider",
+            "rating": 5.579,
+            "type": 0
+        },
+        {
+            "title": "Avatar [4K]",
+            "rating": 7.59,
+            "type": 0
+        },
+        {
+            "title": "The Conjuring 2",
+            "rating": 7.292,
+            "type": 0
+        },
+        {
+            "title": "Ted",
+            "rating": 6.447,
+            "type": 0
+        },
+        {
+            "title": "A Haunted House 2",
+            "rating": 6.169,
+            "type": 0
+        },
+        {
+            "title": "The Maze Runner",
+            "rating": 7.191,
+            "type": 0
+        },
+        {
+            "title": "Major Payne",
+            "rating": 6.43,
+            "type": 0
+        },
+        {
+            "title": "Evil Bong",
+            "rating": 3.4,
+            "type": 0
+        },
+        {
+            "title": "Shin Godzilla",
+            "rating": 7.2,
+            "type": 0
+        },
+        {
+            "title": "Grown Ups 2",
+            "rating": 6.143,
+            "type": 0
+        },
+        {
+            "title": "Big Mommas House",
+            "rating": 5.823,
+            "type": 0
+        },
+        {
+            "title": "Corpse Bride",
+            "rating": 7.58,
+            "type": 0
+        },
+        {
+            "title": "Deadpool and Wolverine",
+            "rating": 7.589,
+            "type": 0
+        },
+        {
+            "title": "I Robot",
+            "rating": 6.953,
+            "type": 0
+        },
+        {
+            "title": "Independence Day Resurgence",
+            "rating": 5.342,
+            "type": 0
+        },
+        {
+            "title": "The Princess and the Frog",
+            "rating": 7.218,
+            "type": 0
+        },
+        {
+            "title": "The Conjuring",
+            "rating": 7.539,
+            "type": 0
+        },
+        {
+            "title": "It Chapter Two [4K]",
+            "rating": 6.835,
+            "type": 0
+        },
+        {
+            "title": "Ready Player One [4K]",
+            "rating": 7.589,
+            "type": 0
+        },
+        {
+            "title": "Jigsaw",
+            "rating": 6.215,
+            "type": 0
+        },
+        {
+            "title": "Land of the Lost",
+            "rating": 5.428,
+            "type": 0
+        },
+        {
+            "title": "Diary of a Wimpy Kid",
+            "rating": 6.257,
+            "type": 0
+        },
+        {
+            "title": "Terrifier 3",
+            "rating": 6.844,
+            "type": 0
+        },
+        {
+            "title": "Scary Movie 2",
+            "rating": 5.803,
+            "type": 0
+        },
+        {
+            "title": "Rango",
+            "rating": 6.9,
+            "type": 0
+        },
+        {
+            "title": "Atlantis The Lost Empire",
+            "rating": 7.019,
+            "type": 0
+        },
+        {
+            "title": "Norbit",
+            "rating": 5.669,
+            "type": 0
+        },
+        {
+            "title": "Silent Hill",
+            "rating": 6.592,
+            "type": 0
+        },
+        {
+            "title": "Harry Potter and the Sorcerers Stone",
+            "rating": 7.9,
+            "type": 0
+        },
+        {
+            "title": "Dont Knock Twice",
+            "rating": 5.501,
+            "type": 0
+        },
+        {
+            "title": "Alien Romulus",
+            "rating": 7.194,
+            "type": 0
+        },
+        {
+            "title": "The Truman Show",
+            "rating": 8.147,
+            "type": 0
+        },
+        {
+            "title": "Us",
+            "rating": 7.0,
+            "type": 0
+        },
+        {
+            "title": "The SpongeBob SquarePants Movie",
+            "rating": 7.047,
+            "type": 0
+        },
+        {
+            "title": "Kick-Ass",
+            "rating": 7.124,
+            "type": 0
+        },
+        {
+            "title": "Mortal Kombat",
+            "rating": 7.0,
+            "type": 0
+        },
+        {
+            "title": "9",
+            "rating": 6.928,
+            "type": 0
+        },
+        {
+            "title": "Rush Hour",
+            "rating": 7.051,
+            "type": 0
+        },
+        {
+            "title": "Big Hero 6",
+            "rating": 7.729,
+            "type": 0
+        },
+        {
+            "title": "My Little Pony Equestria Girls - Rainbow Rocks",
+            "rating": 8.076,
+            "type": 0
+        },
+        {
+            "title": "Central Intelligence",
+            "rating": 6.417,
+            "type": 0
+        },
+        {
+            "title": "A Silent Voice The Movie",
+            "rating": 8.386,
+            "type": 0
+        },
+        {
+            "title": "Alien",
+            "rating": 8.164,
+            "type": 0
+        },
+        {
+            "title": "Captain Underpants The First Epic Movie",
+            "rating": 6.244,
+            "type": 0
+        },
+        {
+            "title": "The Mean One",
+            "rating": 6.3,
+            "type": 0
+        },
+        {
+            "title": "Boo A Madea Halloween",
+            "rating": 5.8,
+            "type": 0
+        },
+        {
+            "title": "Terrifier 2",
+            "rating": 6.712,
+            "type": 0
+        },
+        {
+            "title": "Happy Gilmore",
+            "rating": 6.649,
+            "type": 0
+        },
+        {
+            "title": "Final Destination Bloodlines",
+            "rating": 7.197,
+            "type": 0
+        },
+        {
+            "title": "Autism The Musical",
+            "rating": 6.917,
+            "type": 0
+        },
+        {
+            "title": "Bride of Chucky",
+            "rating": 6.094,
+            "type": 0
+        },
+        {
+            "title": "28 Weeks Later",
+            "rating": 6.615,
+            "type": 0
+        },
+        {
+            "title": "Real Steel",
+            "rating": 7.05,
+            "type": 0
+        },
+        {
+            "title": "Back to the Future",
+            "rating": 8.322,
+            "type": 0
+        },
+        {
+            "title": "Cocaine Bear",
+            "rating": 6.03,
+            "type": 0
+        },
+        {
+            "title": "The Mouse Trap",
+            "rating": 4.37,
+            "type": 0
+        },
+        {
+            "title": "Lilo Stitch",
+            "rating": 7.6,
+            "type": 0
+        },
+        {
+            "title": "John Wick",
+            "rating": 7.448,
+            "type": 0
+        },
+        {
+            "title": "Cars",
+            "rating": 7.003,
+            "type": 0
+        },
+        {
+            "title": "Annabelle",
+            "rating": 5.785,
+            "type": 0
+        },
+        {
+            "title": "Madea Gets a Job",
+            "rating": 7.2,
+            "type": 0
+        },
+        {
+            "title": "Heart Eyes",
+            "rating": 6.4,
+            "type": 0
+        },
+        {
+            "title": "Alpha and Omega",
+            "rating": 5.926,
+            "type": 0
+        },
+        {
+            "title": "The Angry Birds Movie",
+            "rating": 6.2,
+            "type": 0
+        },
+        {
+            "title": "Ted 2",
+            "rating": 6.315,
+            "type": 0
+        },
+        {
+            "title": "Final Destination 3",
+            "rating": 6.142,
+            "type": 0
+        },
+        {
+            "title": "The Gorge",
+            "rating": 7.713,
+            "type": 0
+        },
+        {
+            "title": "Crank",
+            "rating": 6.648,
+            "type": 0
+        },
+        {
+            "title": "Spider Man No Way Home",
+            "rating": 7.9,
+            "type": 0
+        },
+        {
+            "title": "Godzilla King of the Monsters",
+            "rating": 6.695,
+            "type": 0
+        },
+        {
+            "title": "Pet Sematary",
+            "rating": 5.743,
+            "type": 0
+        },
+        {
+            "title": "Coco",
+            "rating": 8.204,
+            "type": 0
+        },
+        {
+            "title": "Star Wars Episode III - Revenge of the Sith",
+            "rating": 7.449,
+            "type": 0
+        },
+        {
+            "title": "Rio 2",
+            "rating": 6.512,
+            "type": 0
+        },
+        {
+            "title": "Avatar",
+            "rating": 7.59,
+            "type": 0
+        },
+        {
+            "title": "Diary of a Wimpy Kid Rodrick Rules",
+            "rating": 6.681,
+            "type": 0
+        },
+        {
+            "title": "Zootopia [4K]",
+            "rating": 7.748,
+            "type": 0
+        },
+        {
+            "title": "Step Brothers",
+            "rating": 6.55,
+            "type": 0
+        },
+        {
+            "title": "Cannibal",
+            "rating": 5.743,
+            "type": 0
+        },
+        {
+            "title": "Scary Movie V",
+            "rating": 4.804,
+            "type": 0
+        },
+        {
+            "title": "Scooby-Doo 2 Monsters Unleashed",
+            "rating": 6.1,
+            "type": 0
+        },
+        {
+            "title": "Another Gay Movie",
+            "rating": 6.0,
+            "type": 0
+        },
+        {
+            "title": "Deadpool 2 [4K]",
+            "rating": 7.49,
+            "type": 0
+        },
+        {
+            "title": "Jackass 3D",
+            "rating": 6.6,
+            "type": 0
+        },
+        {
+            "title": "Role Models",
+            "rating": 6.477,
+            "type": 0
+        },
+        {
+            "title": "Catwoman",
+            "rating": 4.623,
+            "type": 0
+        },
+        {
+            "title": "Scary Movie 3",
+            "rating": 5.967,
+            "type": 0
+        },
+        {
+            "title": "Twilight",
+            "rating": 6.287,
+            "type": 0
+        },
+        {
+            "title": "The Cat in the Hat",
+            "rating": 5.298,
+            "type": 0
+        },
+        {
+            "title": "Mufasa The Lion King",
+            "rating": 7.4,
+            "type": 0
+        },
+        {
+            "title": "The Other Side of the Door",
+            "rating": 5.558,
+            "type": 0
+        },
+        {
+            "title": "South Park The Streaming Wars",
+            "rating": 7.2,
+            "type": 0
+        },
+        {
+            "title": "Jurassic World Fallen Kingdom",
+            "rating": 6.5,
+            "type": 0
+        },
+        {
+            "title": "Grease",
+            "rating": 7.377,
+            "type": 0
+        },
+        {
+            "title": "365 Days",
+            "rating": 7.016,
+            "type": 0
+        },
+        {
+            "title": "Get Out",
+            "rating": 7.619,
+            "type": 0
+        },
+        {
+            "title": "Top Gun Maverick",
+            "rating": 8.175,
+            "type": 0
+        },
+        {
+            "title": "Transformers One",
+            "rating": 8.075,
+            "type": 0
+        },
+        {
+            "title": "Sharknado",
+            "rating": 3.915,
+            "type": 0
+        },
+        {
+            "title": "Final Destination 5",
+            "rating": 6.146,
+            "type": 0
+        },
+        {
+            "title": "Scream VI",
+            "rating": 6.99,
+            "type": 0
+        },
+        {
+            "title": "Boo 2 A Madea Halloween",
+            "rating": 5.7,
+            "type": 0
+        },
+        {
+            "title": "The Old Guard 2",
+            "rating": 6.408,
+            "type": 0
+        },
+        {
+            "title": "21 Jump Street",
+            "rating": 6.881,
+            "type": 0
+        },
+        {
+            "title": "Nimona",
+            "rating": 7.872,
+            "type": 0
+        },
+        {
+            "title": "Gabriel Iglesias Legend of Fluffy",
+            "rating": 5.861,
+            "type": 0
+        },
+        {
+            "title": "The Amazing Spider-Man",
+            "rating": 6.717,
+            "type": 0
+        },
+        {
+            "title": "Cars 3",
+            "rating": 6.9,
+            "type": 0
+        },
+        {
+            "title": "Searching",
+            "rating": 7.569,
+            "type": 0
+        },
+        {
+            "title": "Monty Python and the Holy Grail",
+            "rating": 7.803,
+            "type": 0
+        },
+        {
+            "title": "The Lost World Jurassic Park",
+            "rating": 6.556,
+            "type": 0
+        },
+        {
+            "title": "Get Hard",
+            "rating": 6.028,
+            "type": 0
+        },
+        {
+            "title": "Warfare",
+            "rating": 7.17,
+            "type": 0
+        },
+        {
+            "title": "Pirates of the Caribbean The Curse of the Black Pearl",
+            "rating": 7.811,
+            "type": 0
+        },
+        {
+            "title": "Porno",
+            "rating": 6.028,
+            "type": 0
+        },
+        {
+            "title": "Insidious",
+            "rating": 6.944,
+            "type": 0
+        },
+        {
+            "title": "Baywatch",
+            "rating": 6.094,
+            "type": 0
+        },
+        {
+            "title": "Rush Hour 2",
+            "rating": 6.752,
+            "type": 0
+        },
+        {
+            "title": "Dredd",
+            "rating": 6.843,
+            "type": 0
+        },
+        {
+            "title": "Death of a Unicorn",
+            "rating": 6.386,
+            "type": 0
+        },
+        {
+            "title": "First Man",
+            "rating": 7.041,
+            "type": 0
+        },
+        {
+            "title": "Winnie The Pooh Blood And Honey",
+            "rating": 5.03,
+            "type": 0
+        },
+        {
+            "title": "The Jerky Boys",
+            "rating": 4.25,
+            "type": 0
+        },
+        {
+            "title": "Madagascar",
+            "rating": 6.914,
+            "type": 0
+        },
+        {
+            "title": "Iron Man",
+            "rating": 7.652,
+            "type": 0
+        },
+        {
+            "title": "The Chronicles of Riddick",
+            "rating": 6.54,
+            "type": 0
+        },
+        {
+            "title": "Not Another Teen Movie",
+            "rating": 5.797,
+            "type": 0
+        },
+        {
+            "title": "13 Going on 30",
+            "rating": 6.759,
+            "type": 0
+        },
+        {
+            "title": "Freddy vs Jason",
+            "rating": 6.068,
+            "type": 0
+        },
+        {
+            "title": "Spider-Man Across the Spider-Verse",
+            "rating": 8.347,
+            "type": 0
+        },
+        {
+            "title": "The Electric State",
+            "rating": 6.543,
+            "type": 0
+        },
+        {
+            "title": "Aladdin",
+            "rating": 7.097,
+            "type": 0
+        },
+        {
+            "title": "Predator Killer of Killers",
+            "rating": 8.0,
+            "type": 0
+        },
+        {
+            "title": "Smile",
+            "rating": 6.665,
+            "type": 0
+        },
+        {
+            "title": "Annabelle",
+            "rating": 5.785,
+            "type": 0
+        },
+        {
+            "title": "The Lego Batman Movie",
+            "rating": 7.228,
+            "type": 0
+        },
+        {
+            "title": "A Silent Voice The Movie",
+            "rating": 8.386,
+            "type": 0
+        },
+        {
+            "title": "Gladiator",
+            "rating": 8.22,
+            "type": 0
+        },
+        {
+            "title": "Godzilla",
+            "rating": 6.347,
+            "type": 0
+        },
+        {
+            "title": "Dark Skies",
+            "rating": 6.319,
+            "type": 0
+        },
+        {
+            "title": "Futurama The Beast with a Billion Backs",
+            "rating": 6.942,
+            "type": 0
+        },
+        {
+            "title": "Inception",
+            "rating": 8.368,
+            "type": 0
+        },
+        {
+            "title": "Pirates of the Caribbean Dead Mans Chest",
+            "rating": 7.367,
+            "type": 0
+        },
+        {
+            "title": "District 9",
+            "rating": 7.452,
+            "type": 0
+        },
+        {
+            "title": "Thats My Boy",
+            "rating": 5.833,
+            "type": 0
+        },
+        {
+            "title": "Brave",
+            "rating": 7.02,
+            "type": 0
+        },
+        {
+            "title": "Barbie Princess Charm School",
+            "rating": 7.514,
+            "type": 0
+        },
+        {
+            "title": "Creep",
+            "rating": 6.384,
+            "type": 0
+        },
+        {
+            "title": "Jackass The Movie",
+            "rating": 6.3,
+            "type": 0
+        },
+        {
+            "title": "The Ritual",
+            "rating": 6.267,
+            "type": 0
+        },
+        {
+            "title": "Public Enemies",
+            "rating": 6.688,
+            "type": 0
+        },
+        {
+            "title": "Night at the Museum",
+            "rating": 6.589,
+            "type": 0
+        },
+        {
+            "title": "Star Wars Episode I - The Phantom Menace",
+            "rating": 6.564,
+            "type": 0
+        },
+        {
+            "title": "Salems Lot",
+            "rating": 6.094,
+            "type": 0
+        },
+        {
+            "title": "Transformers",
+            "rating": 6.816,
+            "type": 0
+        },
+        {
+            "title": "Prey",
+            "rating": 7.7,
+            "type": 0
+        },
+        {
+            "title": "Annabelle Comes Home",
+            "rating": 6.407,
+            "type": 0
+        },
+        {
+            "title": "Rio",
+            "rating": 6.748,
+            "type": 0
+        },
+        {
+            "title": "Despicable Me 4",
+            "rating": 7.042,
+            "type": 0
+        },
+        {
+            "title": "The Final Destination",
+            "rating": 5.623,
+            "type": 0
+        },
+        {
+            "title": "The Thing",
+            "rating": 8.069,
+            "type": 0
+        },
+        {
+            "title": "Rescue Dawn",
+            "rating": 6.962,
+            "type": 0
+        },
+        {
+            "title": "Friday the 13th Part 2",
+            "rating": 6.201,
+            "type": 0
+        },
+        {
+            "title": "Saving Private Ryan",
+            "rating": 8.218,
+            "type": 0
+        },
+        {
+            "title": "Batman The Dark Knight",
+            "rating": 8.521,
+            "type": 0
+        },
+        {
+            "title": "The Batman [4K]",
+            "rating": 7.657,
+            "type": 0
+        },
+        {
+            "title": "Need for Speed",
+            "rating": 6.423,
+            "type": 0
+        },
+        {
+            "title": "Spider-Man: Into the Spider-Verse [4K]",
+            "rating": 8.399,
+            "type": 0
+        },
+        {
+            "title": "Terrifier",
+            "rating": 6.345,
+            "type": 0
+        },
+        {
+            "title": "The Fly",
+            "rating": 7.418,
+            "type": 0
+        },
+        {
+            "title": "300",
+            "rating": 7.188,
+            "type": 0
+        },
+        {
+            "title": "Donnie Darko",
+            "rating": 7.771,
+            "type": 0
+        },
+        {
+            "title": "Spawn",
+            "rating": 5.416,
+            "type": 0
+        },
+        {
+            "title": "The Notebook",
+            "rating": 7.892,
+            "type": 0
+        },
+        {
+            "title": "1408",
+            "rating": 6.695,
+            "type": 0
+        },
+        {
+            "title": "2012",
+            "rating": 5.856,
+            "type": 0
+        },
+        {
+            "title": "Happy Death Day",
+            "rating": 6.66,
+            "type": 0
+        },
+        {
+            "title": "Tenacious D in the Pick of Destiny",
+            "rating": 6.782,
+            "type": 0
+        },
+        {
+            "title": "Heathers The Musical",
+            "rating": 7.8,
+            "type": 0
+        },
+        {
+            "title": "Joe Dirt",
+            "rating": 5.583,
+            "type": 0
+        },
+        {
+            "title": "Pacific Rim Uprising",
+            "rating": 6.133,
+            "type": 0
+        },
+        {
+            "title": "Tusk",
+            "rating": 5.517,
+            "type": 0
+        },
+        {
+            "title": "Bullet Train",
+            "rating": 7.435,
+            "type": 0
+        },
+        {
+            "title": "Goon",
+            "rating": 6.403,
+            "type": 0
+        },
+        {
+            "title": "Clown in a Cornfield",
+            "rating": 6.3,
+            "type": 0
+        },
+        {
+            "title": "Pootie Tang",
+            "rating": 5.047,
+            "type": 0
+        },
+        {
+            "title": "Mimic",
+            "rating": 6.059,
+            "type": 0
+        },
+        {
+            "title": "22 Jump Street",
+            "rating": 6.83,
+            "type": 0
+        },
+        {
+            "title": "Hurricane Bianca",
+            "rating": 6.078,
+            "type": 0
+        },
+        {
+            "title": "30 Days to Die",
+            "rating": 2.25,
+            "type": 0
+        },
+        {
+            "title": "John Carter",
+            "rating": 6.344,
+            "type": 0
+        }
+    ]
+}

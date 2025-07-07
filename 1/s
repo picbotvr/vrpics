@@ -1,14 +1,6 @@
 {
-    "availableContentTypes": [
-        "Movie",
-        "Movie 3D",
-        "Series",
-        "Anime Series Sub",
-        "Anime Series Dub",
-        "Anime Movies Sub",
-        "Anime Movies Dub",
-        "Audio Books"
-    ],
+    "count": 256,
+    "imageSize": 128,
     "results": [
         {
             "title": "KPop Demon Hunters",
@@ -1290,5 +1282,17 @@
             "rating": 6.344,
             "type": 0
         }
-    ]
+    ],
+    "sessionData": {
+        "sessionId": 1,
+        "searchQuery": "",
+        "sort": 0,
+        "searchBy": 0,
+        "contentType": 0,
+        "page": 0,
+        "genres": [],
+        "years": [],
+        "rating": 0
+    },
+    "user": null
 }
