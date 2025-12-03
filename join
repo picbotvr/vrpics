@@ -1,13 +1,1 @@
-{
-    "sessionData": {
-        "sessionId": 1,
-        "searchQuery": "",
-        "sort": 0,
-        "searchBy": 0,
-        "contentType": 0,
-        "page": 0,
-        "genres": [],
-        "years": [],
-        "rating": 0
-    }
-}
+{"sessionData":{"sessionId":0,"searchQuery":"","sort":0,"searchBy":0,"contentType":0,"page":0,"genres":[],"years":[],"rating":0,"selectedLanguage":"all"}}
